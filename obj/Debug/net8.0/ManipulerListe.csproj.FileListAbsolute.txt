@@ -1,0 +1,14 @@
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\bin\Debug\net8.0\ManipulerListe.exe
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\bin\Debug\net8.0\ManipulerListe.deps.json
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\bin\Debug\net8.0\ManipulerListe.runtimeconfig.json
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\bin\Debug\net8.0\ManipulerListe.dll
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\bin\Debug\net8.0\ManipulerListe.pdb
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.AssemblyInfoInputs.cache
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.AssemblyInfo.cs
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.csproj.CoreCompileInputs.cache
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.dll
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\refint\ManipulerListe.dll
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.pdb
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ManipulerListe.genruntimeconfig.cache
+C:\Users\pomai\OneDrive\Documents\0 - POM\Formation C# .Net\POEC_Wild_Code\ManipulerListe\obj\Debug\net8.0\ref\ManipulerListe.dll
